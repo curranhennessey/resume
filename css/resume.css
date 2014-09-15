@@ -1,5 +1,5 @@
 body {
-	font-family: serif;
+	font-family: sans-serif;
 	background-color: #EDF2FF;
 }
 
@@ -70,16 +70,19 @@ div.header {
 }
 
 h2 {
-	font-variant: small-caps;
+	padding-top: 5px;
+	font-family: sans-serif;
 	padding-left: 25px;
 	color: #5D5D5D;
 }
 
 h3.address1 {
+	font-size: 100%;
 	color: #5D5D5D;
 }
 
 h3.address2 {
+	font-size: 100%;
 	color: #5D5D5D;
 }
 .FL {
