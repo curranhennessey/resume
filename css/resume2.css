@@ -41,6 +41,7 @@ h1 {
 section.header {
 	background: linear-gradient(#111111, #000000, #000000, #000000);
 	color: white;
+	position: fixed;
 }
 
 div.header {
