@@ -43,6 +43,7 @@ section.header {
 	color: white;
 	position: fixed;
 	margin: 0;
+	width: 100%;
 }
 
 div.header {
